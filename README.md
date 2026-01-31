@@ -8,4 +8,4 @@ There are my research papers while i am in my Bachelor Student era, Researcher e
 https://lnkd.in/gEATs6RU
 
 • Real-Time Unattended Bag Detection using Custom Ultralytics YOLOv12s and Mamdani Fuzzy Inference in ICAIT 2025.
-https://lnkd.in/g6sTYPPg
+https://ieeexplore.ieee.org/document/11236728
