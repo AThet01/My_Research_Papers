@@ -1,4 +1,4 @@
-# My_Research_Papers
+# My_Research_Papers_Published 
 
 These are my research papers(published) while i am in my Bachelor Student era, Researcher era and Master Student era.
 
