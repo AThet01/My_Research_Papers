@@ -1,6 +1,6 @@
 # My_Research_Papers
 
-There are my research papers while i am in my Bachelor Student era, Researcher era and Master Student era.
+These are my research papers(published) while i am in my Bachelor Student era, Researcher era and Master Student era.
 
 🔬 In 2025 I contributed to two IEEE research publications:
 
